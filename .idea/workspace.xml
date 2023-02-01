@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be3c4ade-cf2a-43dc-b345-deacf5299ee2" name="Changes" comment="anomaly score and isolation tree implementation">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_08_2022_11_49_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_08_2022_11_49_[Changes]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_08_2022_11_49__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_08_2022_11_49__Changes_2.xml" beforeDir="false" />
+    <list default="true" id="be3c4ade-cf2a-43dc-b345-deacf5299ee2" name="Changes" comment="number of anomalies per dataset&#10;number of anomalies per Line&#10;number of anomalies per Camera">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eines.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/eines.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,23 @@
       <workItem from="1661766891092" duration="2086000" />
       <workItem from="1661845855277" duration="842000" />
       <workItem from="1662106206408" duration="1271000" />
-      <workItem from="1662968986422" duration="8766000" />
+      <workItem from="1662968986422" duration="8853000" />
+      <workItem from="1663069907510" duration="1750000" />
+      <workItem from="1664699948060" duration="615000" />
+      <workItem from="1665041132188" duration="703000" />
+      <workItem from="1665054164629" duration="597000" />
+      <workItem from="1665323740732" duration="547000" />
+      <workItem from="1665331328273" duration="601000" />
+      <workItem from="1665491926911" duration="498000" />
+      <workItem from="1665565532200" duration="653000" />
+      <workItem from="1665749619984" duration="3154000" />
+      <workItem from="1666859051914" duration="598000" />
+      <workItem from="1668947520976" duration="2415000" />
+      <workItem from="1668957723194" duration="7000" />
+      <workItem from="1669381138107" duration="3479000" />
+      <workItem from="1669481369220" duration="186000" />
+      <workItem from="1674719412331" duration="1231000" />
+      <workItem from="1675153354287" duration="8356000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1661681663875</created>
@@ -97,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662106250288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="number of anomalies per dataset&#10;number of anomalies per Line&#10;number of anomalies per Camera">
+      <created>1663000855341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663000855341</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="anomaly score and isolation tree implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="anomaly score and isolation tree implementation" />
+    <MESSAGE value="number of anomalies per dataset&#10;number of anomalies per Line&#10;number of anomalies per Camera" />
+    <option name="LAST_COMMIT_MESSAGE" value="number of anomalies per dataset&#10;number of anomalies per Line&#10;number of anomalies per Camera" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
